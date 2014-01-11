@@ -1,0 +1,17 @@
+/.cvsignore/1.3/Wed Jun 15 01:47:08 2005//
+/ChangeLog/1.26/Mon Jan 16 04:20:16 2006//
+/Makefile.in/1.14/Mon Jan 16 04:22:49 2006//
+/configure.in/1.1/Tue Jun 19 00:49:55 2001//
+/depfix.sed/1.1/Tue Jun 19 00:49:55 2001//
+/install-sh/1.1/Tue Jun 19 00:49:55 2001//
+/pw_phonemes.c/1.10/Wed Jun 15 04:40:29 2005//
+/pw_rand.c/1.9/Wed Jun 15 01:16:21 2005//
+/pwgen.1/1.13/Mon Jan 16 04:20:16 2006//
+/pwgen.c/1.13/Mon Jan 16 04:13:12 2006//
+/pwgen.h/1.5/Wed Jun 15 01:16:21 2005//
+/randnum.c/1.6/Tue Jun 14 22:35:55 2005//
+/sha1.c/1.1/Tue Jun 14 22:35:55 2005//
+/sha1.h/1.1/Tue Jun 14 22:35:55 2005//
+/sha1num.c/1.2/Tue Jun 14 22:59:40 2005//
+/wordwrap.pl/1.1/Tue Jun 19 00:49:55 2001//
+D/debian////
